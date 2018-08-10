@@ -8,7 +8,8 @@ public class Book {
 	
 	@NotNull
 	private String title;
-	@NotNull @Min(2)
+	@NotNull
+	@Min(2)
 	private Float price;
 	@Size(max = 2000)
 	private String description;
