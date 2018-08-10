@@ -1,7 +1,7 @@
-package generator;
+package chapter2.generator;
 
-import annotation.Loggable;
-import annotation.ThirteenDigits;
+import chapter2.generator.annotation.Loggable;
+import chapter2.generator.annotation.ThirteenDigits;
 
 import javax.enterprise.inject.Alternative;
 import javax.inject.Inject;

@@ -1,4 +1,4 @@
-package app;
+package chapter2.app;
 
 import javax.enterprise.inject.Produces;
 import javax.enterprise.inject.spi.InjectionPoint;

@@ -1,8 +1,8 @@
-package app;
+package chapter2.app;
 
-import annotation.Loggable;
-import annotation.ThirteenDigits;
-import generator.NumberGenerator;
+import chapter2.generator.NumberGenerator;
+import chapter2.generator.annotation.Loggable;
+import chapter2.generator.annotation.ThirteenDigits;
 
 import javax.inject.Inject;
 

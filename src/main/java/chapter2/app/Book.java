@@ -1,4 +1,4 @@
-package app;
+package chapter2.app;
 
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;

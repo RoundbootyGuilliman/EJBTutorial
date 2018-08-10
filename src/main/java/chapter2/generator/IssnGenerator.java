@@ -1,7 +1,7 @@
-package generator;
+package chapter2.generator;
 
-import annotation.EightDigits;
-import annotation.Loggable;
+import chapter2.generator.annotation.EightDigits;
+import chapter2.generator.annotation.Loggable;
 
 import javax.inject.Inject;
 import java.util.Random;
