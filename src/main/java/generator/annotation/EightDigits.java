@@ -1,13 +1,13 @@
-package annotation;
+package generator.annotation;
 
-import javax.interceptor.InterceptorBinding;
+import javax.inject.Qualifier;
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
-@InterceptorBinding
-@Target({ElementType.METHOD, ElementType.TYPE})
+@Qualifier
 @Retention(RetentionPolicy.RUNTIME)
-public @interface Loggable {
+@Target({ElementType.FIELD, ElementType.TYPE, ElementType.METHOD})
+public @interface EightDigits {
 }

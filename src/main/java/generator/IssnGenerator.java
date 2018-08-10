@@ -1,7 +1,7 @@
 package generator;
 
-import annotation.EightDigits;
-import annotation.Loggable;
+import generator.annotation.EightDigits;
+import generator.annotation.Loggable;
 
 import javax.inject.Inject;
 import java.util.Random;

@@ -1,7 +1,7 @@
 package generator;
 
-import annotation.Loggable;
-import annotation.ThirteenDigits;
+import generator.annotation.Loggable;
+import generator.annotation.ThirteenDigits;
 
 import javax.inject.Inject;
 import java.util.Random;

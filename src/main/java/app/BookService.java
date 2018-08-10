@@ -1,7 +1,7 @@
 package app;
 
-import annotation.Loggable;
-import annotation.ThirteenDigits;
+import generator.annotation.Loggable;
+import generator.annotation.ThirteenDigits;
 import generator.NumberGenerator;
 
 import javax.inject.Inject;

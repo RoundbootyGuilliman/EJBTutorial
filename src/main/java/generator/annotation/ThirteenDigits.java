@@ -1,4 +1,4 @@
-package annotation;
+package generator.annotation;
 
 import javax.inject.Qualifier;
 import java.lang.annotation.ElementType;

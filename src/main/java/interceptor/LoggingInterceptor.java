@@ -1,6 +1,6 @@
 package interceptor;
 
-import annotation.Loggable;
+import generator.annotation.Loggable;
 
 import javax.inject.Inject;
 import javax.interceptor.AroundInvoke;
