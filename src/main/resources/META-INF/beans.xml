@@ -9,6 +9,6 @@
 		<!--<class>generator.MockGenerator</class>-->
 	<!--</alternatives>-->
 	<interceptors>
-		<class>interceptor.LoggingInterceptor</class>
+		<class>chapter2.interceptor.LoggingInterceptor</class>
 	</interceptors>
 </beans>
